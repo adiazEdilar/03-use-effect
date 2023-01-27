@@ -49,7 +49,7 @@ export const PruebasComponent = () => {
 
             <br/>
 
-            { usuario == "ANGEL"  && <AvisoComponent/> }
+            { usuario == "ANGEL" && <AvisoComponent/> }
 
         </p>
     </div>
